@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "263394144117",
+    "firebase_url": "https://app-store-4b39b-default-rtdb.firebaseio.com",
+    "project_id": "app-store-4b39b",
+    "storage_bucket": "app-store-4b39b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263394144117:android:48b323058710f291882d3c",
+        "android_client_info": {
+          "package_name": "com.example.appstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPGT56T8C8HeytT3c4QgkqmXUXDNTT744"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
